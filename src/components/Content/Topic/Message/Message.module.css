@@ -1,0 +1,9 @@
+.Message {
+  box-sizing: border-box;
+  padding: 40px;
+  width: 600px;
+  /* overflow: auto; */
+  /* background-color: blue; */
+  color: white;
+  align-self: start;
+}

@@ -1,0 +1,10 @@
+.Background {
+  z-index: -100;
+  position: absolute;
+  width: 100%;
+  height: 45%;
+  left: 0px;
+  top: 0px;
+  background: url(/src/assets/images/BG01.png);
+  background-size: cover;
+}
